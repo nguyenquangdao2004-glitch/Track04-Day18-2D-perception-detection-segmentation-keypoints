@@ -41,7 +41,7 @@ Không làm bonus không làm giảm điểm lõi.
 
 **Không mở PR. Nộp một URL GitHub public vào ô LMS Ngày 18.**
 
-1. Đẩy bài lên `<username-của-bạn>/Track04-Day18-2D-perception-detection-segmentation-keypoints` (fork hoặc repo mới, **public**).
+1. Đẩy bài lên `https://github.com/nguyenquangdao2004-glitch/Track04-Day18-2D-perception-detection-segmentation-keypoints` (fork hoặc repo mới, **public**).
 2. Repo phải có:
    - `lab_2d_perception_student.ipynb` đã chạy hết, **còn nguyên output**;
    - `submission/ket_qua.json`;
